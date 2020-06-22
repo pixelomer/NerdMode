@@ -1,0 +1,11 @@
+Package: com.pixelomer.nerdmode
+Name: NerdMode
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A calculator tweak for nerds
+  A calculator tweak for nerds
+  Requires iOS 11.0 or higher.
+Maintainer: pixelomer
+Author: pixelomer
+Section: Tweaks
